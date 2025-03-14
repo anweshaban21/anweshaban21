@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anweshaban21&label=Profile%20views&color=0e75b6&style=flat" alt="anweshaban21" /> </p>
 
-- 🔭 I’m currently working on **I am currently developing a video streaming platform with a recommendation system using Python. This project focuses on user authentication, video management, and personalized content recommendations based on viewing habits, leveraging machine learning algorithms.**
+- 🔭Currently developing **Finolo** - An AI-powered stock market recommendation system.
+- 🚀 Built **Collab Snippet** - An AI-based real-time collaborative coding platform.
+  
 
-- 🌱 I’m currently learning **XAI**
+- 🌱 I’m currently exploring **Explainable AI (XAI), Quantitative Finance, and ML in FinTech**.
+
 
 - 📫 How to reach me **anweshaban21@gmail.com**
 
