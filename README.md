@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+  <img src="https://github.com/anweshaban21/anweshaban21/blob/main/finT%20img.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover;" />
 </p>
+
+
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Anwesha Banerjee, a passionate developer driven by innovation and a love for solving real-world problems with AI and technology.</h3>
 
