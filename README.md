@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anweshaban21" alt="anweshaban21" /></a> </p>
 
--🔭 Currently developing **Finolo** — *an AI-powered stock market recommendation system*.
+-🔭 Currently building **FinoloAI** — *an AI-powered stock market recommendation system*.
 
 -🌱 Exploring **Explainable AI (XAI)**, **Quantitative Finance**, and **ML in FinTech**.
 
