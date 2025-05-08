@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/anweshaban21/anweshaban21/blob/main/finT%20img.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover;" />
-</p>
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 
 <h1 align="center">Hi there👋</h1>
@@ -27,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anweshaban21&show_icons=true&locale=en&layout=compact" alt="anweshaban21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anweshaban21&show_icons=true&locale=en" alt="anweshaban21" /></p>
+<img src="https://raw.githubusercontent.com/anweshaban21/anweshaban21/output/snake.svg" alt="Snake animation" />
+
+
