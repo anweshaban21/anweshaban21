@@ -66,6 +66,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anweshaban21&show_icons=true&count_private=true&theme=dark&locale=en" alt="anweshaban21" /></p>
 
 
-<img src="https://raw.githubusercontent.com/anweshaban21/anweshaban21/output/snake.svg" alt="Snake animation" />
+
 
 
