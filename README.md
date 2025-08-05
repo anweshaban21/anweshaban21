@@ -63,7 +63,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anweshaban21&show_icons=true&locale=en&layout=compact" alt="anweshaban21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anweshaban21&show_icons=true&count_private=true&theme=dark&locale=en" alt="anweshaban21" /></p>
+
 
 
 
